@@ -33,7 +33,7 @@ npm --version   # 8.0.0+
 #### Clonage et Configuration
 ```bash
 # 1. Cloner le repository
-git clone https://github.com/oxbow/barcode-checker.git
+git clone https://github.com/Oxbow1985/barcode-checker
 cd barcode-checker
 
 # 2. Installer les dépendances
@@ -110,7 +110,7 @@ dist/
 │  │   sélectionner          │  │   sélectionner          │   │
 │  └─────────────────────────┘  └─────────────────────────┘   │
 │                                                             │
-│              [Analyser et identifier le fournisseur]       │
+│              [Analyser et identifier le fournisseur]        │
 └─────────────────────────────────────────────────────────────┘
 ```
 
@@ -172,16 +172,16 @@ dist/
 │ 🔍 Identification du Fournisseur                           │
 ├─────────────────────────────────────────────────────────────┤
 │                                                             │
-│ ✅ Fournisseur Identifié Automatiquement                   │
+│ ✅ Fournisseur Identifié Automatiquement                    │
 │                                                             │
-│ 🏢 OXBOW                                                    │
+│ 🏢 OXBOW                                                   │
 │ 📊 1,247 produits dans Excel                               │
 │ 🎯 23 références trouvées dans le PDF                      │
-│ 📈 Confiance: 87% (Élevée)                                 │
+│ 📈 Confiance: 87% (Élevée)                                  │
 │                                                             │
-│ 📋 Références Détectées:                                   │
-│ • OXV932106  • OXV932107  • OXV932108                      │
-│ • OXV932109  • OXV932110  +18 autres                       │
+│ 📋 Références Détectées:                                    │
+│ • OXV932106  • OXV932107  • OXV932108                       │
+│ • OXV932109  • OXV932110  +18 autres                        │
 │                                                             │
 │ [✅ Sélectionner ce fournisseur] [🔍 Choisir manuellement] │
 └─────────────────────────────────────────────────────────────┘
