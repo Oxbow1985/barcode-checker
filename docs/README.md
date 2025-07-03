@@ -80,7 +80,7 @@ Cette documentation technique complète couvre tous les aspects de l'application
 
 ### Installation
 ```bash
-git clone https://github.com/oxbow/barcode-checker.git
+git clone https://github.com/Oxbow1985/barcode-checker
 cd barcode-checker
 npm install
 npm run dev
@@ -114,14 +114,14 @@ npm run dev
 
 ## 🔗 Liens Utiles
 
-- **Repository :** [GitHub](https://github.com/oxbow/barcode-checker)
+- **Repository :** [GitHub](https://github.com/Oxbow1985/barcode-checker)
 - **Demo Live :** [Application](https://oxbow-barcode.netlify.app)
 - **Issues :** [Bug Reports](https://github.com/oxbow/barcode-checker/issues)
 - **Releases :** [Versions](https://github.com/oxbow/barcode-checker/releases)
 
 ## 📞 Support
 
-- **Email :** support-technique@oxbow.com
+- **Email :** rlotte@guardiaschool.fr
 - **Documentation :** Cette documentation complète
 - **FAQ :** [Questions fréquentes](./guides/faq-technique.md)
 
